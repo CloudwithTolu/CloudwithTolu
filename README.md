@@ -19,4 +19,4 @@ AWS-certified cloud professional specializing in enterprise networking, troubles
 
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/toluwalopemofunlewi/)
-- Email: [tmofunlewi@gmail.com]
+- Email: tmofunlewi@gmail.com
